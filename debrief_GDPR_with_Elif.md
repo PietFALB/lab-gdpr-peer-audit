@@ -35,7 +35,7 @@ Agreement reached, or the specific ambiguity: _…_
 
 ## 6. Joint closing note (required)
 
-*Two to three sentences, written together: what does this debrief reveal about GDPR self-assessment, and which kinds of gaps are hardest to catch in your own work?*
+Elif’s design work showed in the parts she built deliberately: rules rather than AI decide each fact’s status, the tool makes no score or decision, and the student profile asks only for what the comparison needs. The external audit found its gaps in the parts that felt like plumbing: Telegram and Airtable carrying minors’ grades, budgets and evaluations to non-EU vendors, logs kept for no stated purpose, and no plan for parental involvement once real students replace the synthetic profiles. Self-assessment checks what the system is designed to do, so the gaps hardest to catch in your own work are the data flows around the core feature and the obligations that only begin when an MVP goes live.
 
 > _…_
 

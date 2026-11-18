@@ -59,4 +59,4 @@ Phase 5  Debrief with Elif ──► joint closing note      Stretch: DPIA remed
 - [debrief_GDPR_with_Elif.md](debrief_GDPR_with_Elif.md) — Phase 5: debrief, joint closing note, Reinforce
 - [stretch_remediation_plan_DPIA.md](stretch_remediation_plan_DPIA.md) — Stretch: remediation plan for Finding 1
 - [instructions.md](instructions.md) — Stretch: provided instrunctions markdown
-- [rubric.md](srubric.md) — Stretch: provided rubric markdown file
+- [rubric.md](srubric.md) — Stretch: provided rubric markdown filej
